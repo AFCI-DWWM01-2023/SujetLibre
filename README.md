@@ -13,5 +13,10 @@ Header & Carrousel
  Section 1  
    
  ![Header](profile/img/2.JPG)&nbsp;&nbsp;  
+   
+ Section 2
+   
+ ![Header](profile/img/3.JPG)&nbsp;&nbsp;  
+ ![Header](profile/img/4.JPG)&nbsp;&nbsp;  
  
 
