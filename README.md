@@ -7,5 +7,5 @@ Vous pouvez utiliser les classes et composants :
 * etc ...  
 
 Header  
-![Header](./profile/img/1.jpg)&nbsp;&nbsp;  
+![Header](../profile/img/1.jpg)&nbsp;&nbsp;  
 
