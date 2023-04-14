@@ -6,6 +6,7 @@ Vous pouvez utiliser les classes et composants :
 * card
 * etc ...  
 
-Header  
+Header & Carrousel  
+  
 ![Header](profile/img/1.JPG)&nbsp;&nbsp;  
 
