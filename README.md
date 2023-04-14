@@ -10,13 +10,17 @@ Header & Carrousel
   
 ![Header](profile/img/1.JPG)&nbsp;&nbsp;  
   
- Section 1  
+Section 1  
    
- ![Header](profile/img/2.JPG)&nbsp;&nbsp;  
+![Header](profile/img/2.JPG)&nbsp;&nbsp;  
    
- Section 2
+Section 2
    
- ![Header](profile/img/3.JPG)&nbsp;&nbsp;  
- ![Header](profile/img/4.JPG)&nbsp;&nbsp;  
+![Header](profile/img/3.JPG)&nbsp;&nbsp;  
+![Header](profile/img/4.JPG)&nbsp;&nbsp;  
+   
+ Footer
+    
+ ![Header](profile/img/5.JPG)&nbsp;&nbsp;  
  
 
